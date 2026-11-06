@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+
+# Результат сборки
+x64/
+x86/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Логи и временные файлы
+*.log
+*.tmp
