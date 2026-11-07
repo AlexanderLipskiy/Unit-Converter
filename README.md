@@ -7,7 +7,7 @@ Features reliable user input validation, formatted tabular output, and modern C+
 
 The application sequentially prompts the user for 4 distinct measurements and converts them accurately:
 - Distance: kilometers -> miles
-- Weight: kilogramms -> pounds
+- Weight: kilograms -> pounds
 - Temperature: Celsius -> Fahrenheit
 - Volume: liters -> gallons
 
@@ -46,7 +46,7 @@ Thank you for using Unit Converter
 
 ```
 cl /nologo /EHsc /std:c++20 /W4 /utf-8 unit-converter.cpp
-.\unit-converter.cpp
+.\unit-converter.exe
 ```
 
 ## Author
